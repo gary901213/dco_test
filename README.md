@@ -18,6 +18,9 @@ tar zxf openshift-client-linux.tar.gz
 ```
 
 - 圖表:
+- 功能:
+
+1. 使用者透過SNO Agent Deploy 欄位點擊Actions啟動Templates進行申請VM。
 
 流程圖 | 註解
 ------|----
