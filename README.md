@@ -16,4 +16,9 @@ curl -LO https://mirror.openshift.com/pub/openshift-v4/x86_64/clients/ocp/${OCP_
 tar zxf openshift-client-linux.tar.gz
 ```
 
+- 圖表:
 
+流程圖 | 註解
+------|----
+
+![image](https://github.com/gary901213/dco_test/assets/103558648/e18f73cd-dac5-4a79-8d35-889588428ce1)
