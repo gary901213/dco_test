@@ -1,5 +1,6 @@
 ### Agent-based Installer功能說明
-1. 為管理和配置 Linux 系統網路狀態的工具
+
+#### 為管理和配置 Linux 系統網路狀態的工具
 
 ```
 dnf install nmstate -y
