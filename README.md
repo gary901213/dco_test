@@ -24,5 +24,6 @@ tar zxf openshift-client-linux.tar.gz
 - 圖表:
   
 流程圖 | 註解
+
 ------|----
-![image](https://github.com/gary901213/dco_test/assets/103558648/e18f73cd-dac5-4a79-8d35-889588428ce1) | -
+![Untitled-2024-01-02-1454](https://github.com/gary901213/dco_test/assets/103558648/66b58be8-8ec1-401a-9fdd-d083824a3110) | -
